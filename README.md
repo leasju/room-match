@@ -1,10 +1,5 @@
 # RoomMatch
 
-## Nome do Produto
-**MoraMatch**
-
----
-
 ## ODS Relacionado
 **ODS 11 – Cidades e Comunidades Sustentáveis**
 *(Meta 11.1: Garantir o acesso de todos à habitação segura, adequada e a preço acessível, e à urbanização inclusiva)*
