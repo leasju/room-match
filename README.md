@@ -5,7 +5,7 @@
 
   <h1>🏠 RoomMatch</h1>
 
-  <h3>Plataforma de Matching para Moradia Compartilhada na Região Metropolitana de Campinas</h3>
+  <h3>Plataforma de Matching para Moradia Compartilhada no Brasil</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-F59E0B?style=for-the-badge"/>
