@@ -24,6 +24,7 @@
 ## 3) ODS – Impacto Sustentável
 
 - Qual(is) **ODS** o projeto atende?
+  - ODS 3 - Saúde e Bem-Estar
   - ODS 10 - Redução das Desigualdades
   - ODS 11 - Cidades e Comunidades Sustentáveis
 - Que tipo de impacto gera?
