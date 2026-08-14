@@ -53,8 +53,10 @@
 - Tecnologias possíveis (Web ou Mobile)
   - Web
 - Uso de banco de dados e back-end
+  - Front-end: HTML/CSS, JavaScript
   - Banco: MySQL
   - Back-end: Fast API
+  - Ferramenta de teste: Jest
 - Projeto viável dentro do semestre (Sugestão MVP)
 
 > *Projeto simples, funcional e bem executado vale mais.*
