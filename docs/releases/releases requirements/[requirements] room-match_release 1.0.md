@@ -4,6 +4,7 @@
 
 - Qual **problema real** será resolvido?
 - Quem é o **público-alvo**?
+  - Estudantes que não possuem renda financeira para pagar por um imóvel sozinho. E estudantes que não residem/não conhecem aquela região de interesse.
 - Em qual contexto esse problema ocorre?
 
 > *Sem problema real, não há projeto relevante.*
@@ -14,7 +15,7 @@
 
 - [ ] **Primeiro Setor** – Público (governo, serviços públicos)
 - [ ] **Segundo Setor** – Privado (empresas, negócios, startups)
-- [ ] **Terceiro Setor** – Social (ONGs, associações, comunidades)
+- [x] **Terceiro Setor** – Social (ONGs, associações, comunidades)
 
 > *O projeto deve indicar claramente qual setor será impactado.*
 
@@ -23,9 +24,10 @@
 ## 3) ODS – Impacto Sustentável
 
 - Qual(is) **ODS** o projeto atende?
+  - ODS 11 — Cidades e Comunidades Sustentáveis
 - Que tipo de impacto gera?
-  - [ ] Social
-  - [ ] Econômico
+  - [x] Social
+  - [x] Econômico
   - [ ] Ambiental
 
 > *A ODS mostra por que esse projeto importa para a sociedade.*
@@ -45,7 +47,10 @@
 ## 5) Viabilidade Técnica
 
 - Tecnologias possíveis (Web ou Mobile)
+  - Web
 - Uso de banco de dados e back-end
+  - Banco: MySQL
+  - Back-end: JavaScript
 - Projeto viável dentro do semestre (Sugestão MVP)
 
 > *Projeto simples, funcional e bem executado vale mais.*
@@ -55,11 +60,11 @@
 ## 6) Valor Gerado
 
 - Que benefício o projeto entrega?
-  - [ ] Inclusão social
-  - [ ] Educação
+  - [x] Inclusão social
+  - [x] Educação
   - [ ] Geração de renda
-  - [ ] Sustentabilidade
-  - [ ] Melhoria de serviços
+  - [x] Sustentabilidade
+  - [x] Melhoria de serviços
 
 > *Tecnologia com propósito gera valor.*
 
@@ -67,9 +72,9 @@
 
 # Checklist Final da Ideia
 
-- [ ] Problema real definido
-- [ ] Público-alvo identificado
-- [ ] Setor da sociedade escolhido
-- [ ] ODS associada(s)
-- [ ] Funcionalidades claras
-- [ ] Projeto viável
+- [x] Problema real definido
+- [x] Público-alvo identificado
+- [x] Setor da sociedade escolhido
+- [x] ODS associada(s)
+- [x] Funcionalidades claras
+- [x] Projeto viável
