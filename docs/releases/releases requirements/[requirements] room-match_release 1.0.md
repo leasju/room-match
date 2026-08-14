@@ -3,9 +3,11 @@
 ## 1) Problema e Público
 
 - Qual **problema real** será resolvido?
+  - Muitos estudantes e jovens trabalhadores têm dificuldade para encontrar moradia com preço acessível. Além do custo, também existe a dificuldade de encontrar pessoas confiáveis e compatíveis para dividir o imóvel. A falta de conhecimento sobre bairros e localização pode dificultar ainda mais essa busca.
 - Quem é o **público-alvo**?
   - Estudantes que não possuem renda financeira para pagar por um imóvel sozinho. E estudantes que não residem/não conhecem aquela região de interesse.
 - Em qual contexto esse problema ocorre?
+  - Esse problema ocorre principalmente quando jovens precisam se mudar para estudar ou trabalhar. Muitas vezes, eles encontram aluguéis altos e poucas opções dentro de seu orçamento. Também podem ter dificuldade para conhecer bairros, distâncias e possíveis colegas de moradia. Nesse contexto, o RoomMatch facilita a busca por uma opção acessível e bem localizada.
 
 > *Sem problema real, não há projeto relevante.*
 
