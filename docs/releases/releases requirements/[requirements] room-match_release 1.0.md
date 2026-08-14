@@ -50,7 +50,7 @@
   - Web
 - Uso de banco de dados e back-end
   - Banco: MySQL
-  - Back-end: JavaScript
+  - Back-end: Fast API
 - Projeto viável dentro do semestre (Sugestão MVP)
 
 > *Projeto simples, funcional e bem executado vale mais.*
