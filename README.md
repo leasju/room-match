@@ -15,6 +15,8 @@
   </p>
 
   <p>
+    <img src="https://img.shields.io/badge/ODS%203-Sa%C3%BAde%20e%20Bem--Estar-FD9D24?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/ODS%2010-Redu%C3%A7%C3%A3o%20das%20Desigualdades-FD9D24?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/ODS%2011-Cidades%20e%20Comunidades%20Sustentáveis-FD9D24?style=for-the-badge"/>
   </p>
 
